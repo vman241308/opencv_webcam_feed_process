@@ -1,6 +1,6 @@
 # WebCam_ImageProcessing
 
-This code is heavily based on code from kinddev813.
+This code is heavily based on code from vman241308.
 
 Here's a piece of the introduction comments from the mainfile WebCam_ImageProcessing.cpp
 
